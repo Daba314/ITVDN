@@ -1,0 +1,4 @@
+Every Thread has Stack
+
+Stack    Stack      Stack
+main     Thread0    Thread1

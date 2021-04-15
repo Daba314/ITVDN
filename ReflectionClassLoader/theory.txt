@@ -1,0 +1,10 @@
+Java reflection api
+Abilities:
+- define the class of the object
+-get info about class,method,constrictor modifier
+-Define which constants and methods belongs to interface
+- create the sample of the class, whose name is unknown until program start compiling
+- call the method
+- create new array , whose capacity and type are unknown until program start working
+- get and set object value
+

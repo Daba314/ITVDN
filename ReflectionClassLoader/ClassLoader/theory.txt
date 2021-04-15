@@ -1,0 +1,12 @@
+ClassLoader is a component of JVN, the which task is find and load the class
+
+Hierarchy
+
+Bootstrap
+
+Extension
+
+System
+
+User-defined class loaders
+//started from the System and goes up till load the file, otherwise throw NotFoundClass exception
